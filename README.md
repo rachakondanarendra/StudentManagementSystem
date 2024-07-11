@@ -26,9 +26,9 @@ Apache Tomcat (or any other compatible servlet container)
 ## Installation
 
 **Clone the Repository:**
-write this command in command prompt.
+write this follwing command in command prompt.
 
-**git clone https://github.com/rachakondanarendra/StudentManagementSystem.git**
+**C:\Users\NARENDRA>: git clone https://github.com/rachakondanarendra/StudentManagementSystem.git**
 
 **Set up MySQL Database**
 
