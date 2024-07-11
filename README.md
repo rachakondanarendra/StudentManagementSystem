@@ -48,7 +48,7 @@ Create a database named 'student_db'.
   );
 
 ## Import the Project into Eclipse and Run:
-Open Eclipse IDE.
+  Open Eclipse IDE.
   File > Import > Existing Projects into Workspace > Select the cloned repository folder.
   Configure Apache Tomcat in Eclipse.
   Right-click the project > Run As > Run on Server > Select Tomcat server.
