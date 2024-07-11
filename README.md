@@ -47,7 +47,7 @@ Create a database named 'student_db'.
     age INT
   );
 
-## Import the Project into Eclipse and Run:
+## Import the Project into Eclipse and Run
 **Open Eclipse IDE.**
 **File > Import > Existing Projects into Workspace > Select the cloned repository folder.**
   **Configure Apache Tomcat in Eclipse.**
