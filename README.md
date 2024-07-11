@@ -22,3 +22,34 @@ MySQL
 JDBC (Java Database Connectivity)
 Eclipse IDE
 Apache Tomcat (or any other compatible servlet container)
+
+## Installation
+
+**Clone the Repository:**
+write this command in command prompt.
+git clone https://github.com/rachakondanarendra/StudentManagementSystem.git
+
+**Set up MySQL Database**
+
+Create a database named 'student_db'.
+Create a table named 'students' with the appropriate schema given below.
+
+CREATE DATABASE student_db;
+
+USE student_db;
+
+CREATE TABLE students (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100),
+  email VARCHAR(100),
+  course VARCHAR(100)
+);
+
+## Import the Project into Eclipse and Run:
+Open Eclipse IDE.
+File > Import > Existing Projects into Workspace > Select the cloned repository folder.
+Configure Apache Tomcat in Eclipse.
+Right-click the project > Run As > Run on Server > Select Tomcat server.
+Open your web browser and navigate to http://localhost:8080/Student.
+Use the provided buttons to add, update, delete, or display student records.
+
