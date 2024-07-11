@@ -48,10 +48,10 @@ Create a database named 'student_db'.
   );
 
 ## Import the Project into Eclipse and Run:
-Open Eclipse IDE.
-  File > Import > Existing Projects into Workspace > Select the cloned repository folder.
-  Configure Apache Tomcat in Eclipse.
-  Right-click the project > Run As > Run on Server > Select Tomcat server.
-  Open your web browser and navigate to http://localhost:8080/Student.
-  Use the provided buttons to add, update, delete, or display student records.
+**Open Eclipse IDE.**
+**File > Import > Existing Projects into Workspace > Select the cloned repository folder.**
+  **Configure Apache Tomcat in Eclipse.**
+  **Right-click the project > Run As > Run on Server > Select Tomcat server.**
+  **Open your web browser and navigate to http://localhost:8080/Student.**
+  **Use the provided buttons to add, update, delete, or display student records.**
 
