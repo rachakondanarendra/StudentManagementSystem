@@ -59,6 +59,8 @@ Create a database named 'student_db'.
   **Click Finsh**
   
   **Right-click the project > Run As > Run on Server > Select Tomcat server.**
+  
   **Open your web browser and navigate to http://localhost:8080/StudentManagement/.**
+ 
   **Use the provided buttons to add, update, delete, or display student records.**
 
