@@ -31,6 +31,11 @@ write this follwing command in command prompt.
 
 **Example :** **C:\Users\NARENDRA>: git clone https://github.com/rachakondanarendra/StudentManagementSystem.git  (OR) Download the StudentManagement.war file**
 
+### How to download war file
+**Step1:Click on the war file above**
+
+**Step2:Click on Download option (Download raw file) in TOP RIGHT**
+
 
 
 **Set up MySQL Database**
