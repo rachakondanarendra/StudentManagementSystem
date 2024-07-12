@@ -64,6 +64,10 @@ Create a database named 'student_db'.
   **Target Runtime : Select as Apache Tomcat**
   
   **Click Finsh**
+
+  **Right Click> Build Path >Congigur Build Path> Select Libraries > Select ClassPath > Click on 'ADD JARs' which is there right side**\
+  
+  **Now Open the right side arrow of project(StudentMangement) StudentMaangement>src>main>webapp>WEB-INF>lib>Select mysql-connector, then click ok, the click apply and close**
   
   **Right-click the project > Run As > Run on Server > Select Tomcat server.**
   
