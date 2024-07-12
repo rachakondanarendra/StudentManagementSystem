@@ -49,8 +49,8 @@ Create a database named 'student_db'.
 
 ## Import the Project into Eclipse and Run
 **Open Eclipse IDE.**
-**Make Sure that Apache Tomcate Server available int Eclipse**
-**File > Import > WAR FIle > Add the path of 'StudentManagemet.war' file in 'WAR File' Location**
+  **Make Sure that Apache Tomcate Server available int Eclipse**
+  **File > Import > WAR FIle > Add the path of 'StudentManagemet.war' file in 'WAR File' Location**
   
   **Target Runtime : Select as Apache Tomcat**
   
