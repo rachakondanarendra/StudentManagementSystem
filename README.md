@@ -29,7 +29,9 @@ Java EE
 **Clone the Repository:**
 write this follwing command in command prompt.
 
-**Example :** **C:\Users\NARENDRA>: git clone https://github.com/rachakondanarendra/StudentManagementSystem.git**
+**Example :** **C:\Users\NARENDRA>: git clone https://github.com/rachakondanarendra/StudentManagementSystem.git  (OR) Download the StudentManagement.war file**
+
+
 
 **Set up MySQL Database**
 
